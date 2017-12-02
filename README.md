@@ -1,7 +1,7 @@
-# React Redux Tinder Clone
+# React Redux Intro
 
 ## About
-This is a tinder clone that was created by following a Udemy course on React/Redux.    
+This is a react redux basic application that I created following a Udemy course on React/Redux.    
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
